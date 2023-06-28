@@ -1,0 +1,29 @@
+{
+  "name": "api-solid",
+  "version": "1.0.0",
+  "description": "GymPass style app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleazar-nascimento/api-solid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eleazar-nascimento/api-solid/issues"
+  },
+  "homepage": "https://github.com/eleazar-nascimento/api-solid#readme",
+  "devDependencies": {
+    "@types/node": "^20.3.2",
+    "tsup": "^7.1.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.5"
+  },
+  "dependencies": {
+    "fastify": "^4.18.0"
+  }
+}
